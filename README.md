@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=014faa&height=120&section=header"/>
   
 # Olá, me chamo Melcksedeck e seja bem-vindo ao meu Github! 🖤
 
@@ -29,4 +29,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=014faa&height=120&section=footer"/>
