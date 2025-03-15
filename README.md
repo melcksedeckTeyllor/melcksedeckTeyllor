@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=014faa&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
   
 # Olá, me chamo Melcksedeck e seja bem-vindo ao meu Github! 🖤
 
-<a href="https://github.com/melcksedeckTeyllor"></a>
-<img height="240em" src="https://github-readme-stats.vercel.app/api?username=melcksedeckTeyllor&theme=blue&show_icons=false">
-<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melcksedeckTeyllor&theme=blue&langs_count=8">
+
 
 
 <hr />
@@ -29,4 +27,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=014faa&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footer"/>
